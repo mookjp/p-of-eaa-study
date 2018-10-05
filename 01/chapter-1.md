@@ -109,6 +109,6 @@ PART1: The Narratives / Chapter 1 Layering
 * 絶対に必要にならない限りはレイヤを別々のプロセスに分けようとしてはいけない。性能を損ね複雑さを加えることになる
     * Remote Facades, Data Transfer Objects のようにすべき
 * 分散、マルチスレッディング、 paradign chasms （object/relation
-    のような）、マルチプラットフォーム開発、極度の性能要件は complexity boosters
+    の理論の違い）、マルチプラットフォーム開発、極度の性能要件は complexity boosters
     である
     * 必要な場合もあるが、開発とメンテナンスにコストがかかることを忘れてはならない
